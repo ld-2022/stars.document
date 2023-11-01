@@ -1,11 +1,3 @@
----
-icon: lock
-order: 4
-category:
-  - 快速上手
-tag:
-  - 快速上手
----
 # OpenWRT 使用说明
 
 ## 系统兼容性

@@ -1,11 +1,3 @@
----
-icon: lock
-order: 5
-category:
-  - 快速上手
-tag:
-  - 快速上手
----
 # 苹果ios 使用说明
 
 ## 系统兼容性
