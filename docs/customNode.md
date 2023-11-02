@@ -1,11 +1,3 @@
----
-icon: lock
-order: 9
-category:
-  - 快速上手
-tag:
-  - 快速上手
----
 # 自定义线路 使用说明
 
 ##  系统兼容性
@@ -20,6 +12,7 @@ tag:
 
 ## 开始安装
 - 服务器安装命令
+
 ```shell
 sudo docker run -d \
 --restart=always \
@@ -30,7 +23,7 @@ sudo docker run -d \
 docker.ip4.ink/starvpn/stars.node:latest
 ```
 - 星空后台添加自定义线路
-![An image](/assets/image/customNode/01.png)
+![An image](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/customNode/01.png)
 ## 安装完成
 - 星空后台使用自定义线路
-![An image](/assets/image/customNode/02.png)
+![An image](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/customNode/02.png)

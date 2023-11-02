@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>星空组网</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -12,18 +14,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: '星空组网',
       // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
       loadSidebar: true,
             // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
-            loadNavbar: true,
+      loadNavbar: true,
+            // autoHeader: true,
             // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
             coverpage: false,
             // 最大支持渲染的标题层级
             maxLevel: 5,
             // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
             subMaxLevel: 4,
+          
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
             /*搜索相关设置*/
@@ -33,8 +36,7 @@
                 placeholder: '搜索',              
                 // 支持本地化
                 placeholder: {
-                    '/zh-cn/': '搜索',
-                    '/': 'Type to search'
+                    '/': '搜索'
                 },
                 noData: '找不到结果',
                 depth: 4,

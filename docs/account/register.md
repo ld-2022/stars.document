@@ -7,9 +7,9 @@
 
 
 ## 二、注册管理员账号
-![Alt text](_images/admin_register.png)
+![Alt text](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/account/register_admin.png)
 ## 三、创建客户端账号
-![Alt text](_images/create_client.png)
+![Alt text](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/account/create_client.png)
 
 ## 四、视频讲解
 <iframe width="400" height="500" src="//player.bilibili.com/player.html?aid=786772163&bvid=BV1e14y1B7ws&cid=1221479372&page=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
