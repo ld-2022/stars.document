@@ -58,4 +58,4 @@ curl -O https://download.tbytm.com/stars/releases/shell/shell-uninstall.sh && su
 ```
 
 ####  视频安装教程
-<iframe width="400" height="500" src="//player.bilibili.com/player.html?aid=231789650&bvid=BV1H8411d7dx&cid=1221480049&page=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="500" src="//player.bilibili.com/player.html?aid=231789650&bvid=BV1H8411d7dx&cid=1221480049&page=1&autoplay=0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
