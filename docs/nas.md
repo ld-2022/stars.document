@@ -15,7 +15,7 @@ https://spk7.imnks.com/
     sudo sed -i 's/package/root/g' /var/packages/Stars/conf/privilege
 ```
 ### 三、视频教程
-<iframe width="400" height="500" src="https://download.tbytm.com/stars/releases/resources/video/nas.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="500" src="https://download.tbytm.com/stars/releases/resources/video/nas.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 其他NAS安装教程
 ### 一、必要条件

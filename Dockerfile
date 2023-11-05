@@ -1,7 +1,5 @@
-FROM node:latest
-LABEL description="stars.document"
-WORKDIR /docsify
-COPY . .
-RUN npm install -g docsify-cli@latest
-EXPOSE 3000/tcp
-ENTRYPOINT docsify serve docs
+FROM nginx:latest
+
+# 拷贝构建结果到nginx容器
+COPY docs/* /usr/share/nginx/html
+CMD ["nginx", "-g", "daemon off;"]

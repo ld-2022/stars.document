@@ -8,7 +8,7 @@
 
 ##  视频安装教程
 
-<iframe width="400" height="500" src="//player.bilibili.com/player.html?aid=531101451&bvid=BV1qu411L79j&cid=1202162544&page=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="500" src="//player.bilibili.com/player.html?aid=531101451&bvid=BV1qu411L79j&cid=1202162544&page=1&autoplay=0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 升级
 
