@@ -6,7 +6,7 @@
 
 如果你在使用 Windows 设备，点击下方链接开始下载我们的应用：
 
-[![立即下载](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/download.jpg)](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/releases/exe/3.8.6/StarVPN.exe)
+[![立即下载](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/download.jpg)](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/releases/exe/3.8.7/StarVPN.exe)
 
 ### NAS(群辉) 用户
 
