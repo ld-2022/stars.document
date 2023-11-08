@@ -13,5 +13,8 @@
 
   - [自定义线路 使用说明](customNode.md)
 
+- 实用工具
+
+  - [打洞环境检查](natType.md)
 - [下载客户端](download.md)
 - [版本更新记录](changelog.md)
