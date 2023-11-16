@@ -5,7 +5,7 @@
 
 ## 必要条件
 - 服务器拥有公网IP
-- 系统是Ubuntu
+- 系统是Ubuntu/Windows【建议Ubuntu服务器】
 - 已经安装Docker环境
 - 开放以下端口
 > 6262(TCP+UDP) , 1122(TCP)
@@ -20,7 +20,7 @@ sudo docker run -d \
 -p 6262:10000/tcp \
 -p 6262:10000/udp \
 -p 1122:9999/tcp \
-docker.ip4.ink/starvpn/stars.node:latest
+registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node:1.0.0
 ```
 - 星空后台添加自定义线路
 ![An image](https://skynet-beijing.oss-cn-beijing.aliyuncs.com/stars/document/images/customNode/01.png)
